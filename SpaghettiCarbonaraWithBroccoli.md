@@ -16,21 +16,26 @@ a hunk of parmgiano reggiano cheese from which you will finely grate around 8 to
 	- grate the parmigiano reggiano cheese
 	- mince the garlic cloves
 	
-2. start heating some water for the pasta, adding some salt to the water.
-3. You will use a pizza cutter in this step, so don't use a non-stick pan.
+1. start heating some water for the pasta, adding some salt to the water.
+1. You will use a pizza cutter in this step, so don't use a non-stick pan.
    Line the bottom of a wide, deep pan with bacon, and beging heating at medium on 
    the stove. 
    As the bacon begins to cook, run a pizza cutter back and forth to break the bacon into 
    small pieces, about a quarter inch or so across.
-4. Once the bacon is browned, add the ham and cook until it is beginning to brown.
-5. Add the garlic and cook until the garlic starts to turn golden.
-   Then throw in the broccoli, mix to coat the broccoli, turn off the heat and cover the 
+1. Once the bacon is browned, add the ham and cook until it is beginning to brown.
+1. Add the garlic and cook until the garlic starts to turn golden.
+   Then throw in the broccoli, mix to coat the broccoli.  Cook for a few minutes at a low heat, but aim for not overcooking the broccoli, turning it to mush.  Once the broccoli is just starting to soften, turn off the heat and cover the 
    mixture with a lid.
-6. Start cooking the spaghetti until it's al-dente.
-7. Once the spaghetti is cooked, lift the lid off the bacon/ham/broccoli mixture and 
+1. Start cooking the spaghetti until it's al-dente.
+1. Once the spaghetti is cooked, first reserve a cup or two of the hot water before draining it from the noodles.  I use a ladle and a mug or a bowl.
+1. Lift the lid off the bacon/ham/broccoli mixture and 
    scoop out the spaghetti into it.
    Add the grated cheese and then stir the mixture for a few moments.
-   You will want to avoid putting the eggs right onto the boiling hot spaghetti, so it's
-   important to mix it first with the other ingredients that were cooling while the 
-   spaghetti cooked.
-8. Add the eggs to the mixture and stir in thoroughly.
+1. Mixing the eggs is the tricky spot because the noodles are probably too hot for the eggs at this point.
+   You want the mixture hot enough to sanitize the eggs, but not so hot you flash cook the eggs into a solid.
+   Pour a small amount of the beaten eggs onto the mixture, and if they flash cook then wait a minute or two,
+   stirring the mixture a few times to combine the cooling top part into the middle. Once you can start adding
+   eggs into the top part of the mixture, spread them around the top before combining them into the rest of the
+   mixture.  A few minutes at the higher temperature in the mixture will sanitize them.  
+   
+
