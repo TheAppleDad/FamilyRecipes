@@ -1,18 +1,20 @@
 Modified from the original recipe at 
 https://www.thekitchn.com/recipe-mexican-rice-recipes-from-the-kitchn-198867
 
-INGREDIENTS
-1 (28-ounce) can whole peeled tomatoes
-1 medium onion, peeled and coarsely chopped
-4 cups low-sodium chicken broth
-3 teaspoons kosher salt
-1 teaspoon ground cumin
-2/3 cup neutral cooking oil, such as canola or safflower (or rendered lard)
-4 cups long-grain white rice
-2 to 4 medium jalapeño or serrano chile peppers, seeded and minced (optional)
-8 to 10 cloves garlic, finely chopped, basically a garlic bunch
-1/2 cup finely fresh cilantro
-Juice of 4 medium limes, plus more wedges for serving.  True Lime (tm) powder works well too.
+This is the best recipe after a bunch of experiments to make rice at home just like what's served and Mexican Food restaurants.  This pairs well with a can of pickled carrots like the La Costena brand.
+
+INGREDIENTS:
+- 1 (28-ounce) can whole peeled tomatoes
+- 1 medium onion, peeled and coarsely chopped
+- 4 cups low-sodium chicken broth
+- 3 teaspoons kosher salt
+- 1 teaspoon ground cumin
+- 2/3 cup neutral cooking oil, such as canola.  Lard may be traditional.
+- 4 cups long-grain white rice
+- 2 to 4 medium jalapeño or serrano chile peppers, seeded and minced (optional)
+- 8 to 10 cloves garlic, finely chopped, basically a garlic bunch
+- 1/2 cup finely fresh cilantro
+- (optional) Juice of 4 medium limes, plus more wedges for serving.  True Lime (tm) powder works well too.
 
 INSTRUCTIONS
 1. Place the tomatoes and their juices and onion in a blender or food processor and purée until smooth.
@@ -25,7 +27,8 @@ INSTRUCTIONS
 5. Reduce the heat to low. Cover and cook until the liquid is absorbed and the rice is tender, about 15 minutes.
 6. Remove from the heat and gently fluff the rice with the fork. Cover again and set aside to steam for 10 minutes.
   
-Add the cilantro and lime juice and fluff again to combine. Taste and season with more salt as needed. Serve with lime wedges.
+If desired, add the cilantro and lime juice and fluff again to combine before serving. 
+Taste and season with more salt as needed. Serve with lime wedges.
 
 Storage: Leftovers freeze and reheat nicely.  
 Basmati rice also goes nicely instead of long grain.
