@@ -14,3 +14,5 @@ Ingredients
 1. Sprinkle a few shakes of salt into a pot of water, heat until boiling, and then add noodles.  Cook the amount of time according to the directions, which is usually 6 or 7 minutes for thinner noodles, or 11 minutes for thicker noodles.  Drain water.
 
 1. Combine noodles, beef, cheeze whiz, milk, and corn in a large bowl.  Mix together, adding more milk if the cheese sauce is too thick.
+
+   Tip about the noodles:  Once the water is drained, the steaming hot noodles are still cooking and can turn mushy if left to steam for a few more minutes.  Adding the other, cooler ingredients stops the cookign and will keep the noodles chewy.  If other ingredients are not ready yet to mix with the noodles to cool them down, then spray them with cool water and mix until they stop steaming.  It can be reheated later.
