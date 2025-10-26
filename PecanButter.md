@@ -1,9 +1,9 @@
 **Ingredients:**
 
- -- 6 cups pecans
- -- 6 Tbs Honey
- -- 3 Tbs Manuka Honey
- -- 1.5 tsp salt
+ - 6 cups pecans
+ - 6 Tbs Honey
+ - 3 Tbs Manuka Honey
+ - 1.5 tsp salt
 
 **Instructions:**
 1. Line air fryer basket with aluminum foil and pour about 2 cups of pecans into the basket.
